@@ -1,0 +1,58 @@
+body {
+	background-image: url(fire.jpg);
+	margin: auto;
+	padding: 10px;
+}
+
+footer, ul li {
+	margin-top: 10px;
+	text-decoration: underline;
+	background: #B22222;
+	list-style-type: none;
+	font-size: 25px;
+}
+
+nav {
+	position: absolute;
+	top: 85px;
+	right: 150px;
+}
+
+nav li {
+	display: inline;
+	margin-left: 30px;
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#title {
+	color: white;
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+	font-family: fantasy;
+}
+
+.caveira {
+	padding: 10px;
+	max-width: 130px;
+	max-height: 130px;
+	border-radius: 100%;
+}
+
+.text {
+	color: white;
+	font-size: 20px;
+	display: inline-flex;
+	text-align: justify;
+}
+
+.image {
+	margin-left: 10px;
+}
+
+.fala {
+	text-align: center;
+	color: red;
+}
